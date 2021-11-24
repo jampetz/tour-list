@@ -1,6 +1,7 @@
 # Tour list
 
 ## [Live instance](https://jam-tour-list.netlify.app/)
+![image](https://i.imgur.com/XI68ivR.png)
 
 ### Features:
 
